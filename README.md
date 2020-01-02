@@ -1,1 +1,1 @@
-# 365HUFFMAN
+# HuffmanEncoding
